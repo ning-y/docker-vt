@@ -3,7 +3,7 @@
 A lightweight alpine-based image for the [variant discovery tool Vt](https://genome.sph.umich.edu/wiki/Vt).
 
 These images are built from the GitHub source on the date indicated on the tag name.
-For more information, please see [the Docker Hub page](https://hub.docker.com/repository/docker/ningyuan/vt).
+For more information, please see [the Docker Hub page](https://hub.docker.com/r/docker/ningyuan/vt).
 
 ## Development
 
